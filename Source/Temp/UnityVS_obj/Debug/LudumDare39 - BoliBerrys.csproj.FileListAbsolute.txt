@@ -1,0 +1,27 @@
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\nunit.framework.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.TestRunner.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.Timeline.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.TestRunner.xml
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\nunit.framework.xml
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.Timeline.xml
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.xml
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_obj\Debug\LudumDare39 - BoliBerrys.csprojResolveAssemblyReference.cache
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+D:\Projects\Unity\LudumDare39 - BoliBerrys\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
